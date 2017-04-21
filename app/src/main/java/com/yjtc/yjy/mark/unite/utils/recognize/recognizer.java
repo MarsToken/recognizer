@@ -31,12 +31,12 @@ public class recognizer {
     public static native int recognizer_classify();
 
     /**
-     * 得到对应下标的x坐标
+     * 打印Log检测用 ：得到对应下标的x坐标
      */
     public static native int recognizer_getx(int i);
 
     /**
-     * 得到对应下标的y坐标
+     * 打印Log检测用 ：得到对应下标的y坐标
      */
     public static native int recognizer_gety(int i);
 
@@ -46,7 +46,7 @@ public class recognizer {
     public static native boolean recognizer_deInit();
 
     /*
-    *获取最终识别方向
+    *打印Log检测用：获取最终识别方向
     * */
     public static native String recognizer_getDirectionStr();
 
