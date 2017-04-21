@@ -1,15 +1,9 @@
 package com.yjtc.yjy.mark.unite.utils.recognize;
 /**
  * 手写识别库
- * Created by wangmaobo on 16/5/18.
+ * Created by wangmaobo on 2016/5/18.
  */
 public class recognizer {
-
-    /**
-     * A native method that is implemented by the 'native-lib' native library,
-     * which is packaged with this application.
-     */
-    public static native String stringFromJNI();
 
     // Used to load the 'native-lib' library on application startup.
     static {
