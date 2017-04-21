@@ -7,4 +7,4 @@
 5.Demo演示对半对参照满分为100，自由打分没有对其进行临界值判断。
 
 
-![test.gif](C:/Users/Administrator/Desktop/test.gif "动态测试图")
+![test.gif](https://github.com/MarsToken/recognizer/raw/master/app/test.gif)
